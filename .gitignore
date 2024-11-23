@@ -13,3 +13,6 @@ target/
 *.iml
 *.ipr
 .DS_Store
+
+.venv
+.env
